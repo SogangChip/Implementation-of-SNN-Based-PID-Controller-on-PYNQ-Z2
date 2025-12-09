@@ -16,7 +16,7 @@ Please share the open source code, but indicate the source so that our hard work
 
 
 If you want to download this project,
-copy this script in your Vivado Tcl Console.
+copy and paste this script in your Vivado Tcl Console.
 
 - cd [download path]
 - source project_script.tcl
