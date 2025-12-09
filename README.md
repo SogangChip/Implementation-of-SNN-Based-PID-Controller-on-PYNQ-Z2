@@ -14,5 +14,12 @@ We are undergraduate researchers at Sogang University's Digital Cirtuits and Sys
 Thank you and praise all the team members Haneum-Kim, Hyosong-Shin, and Yena-Lee who have been with me over the past period.
 Please share the open source code, but indicate the source so that our hard work is recorded.
 
+
+If you want to download this project,
+copy this script in your Vivado Tcl Console.
+
+cd [download path]
+source project_script.tcl
+
 ![Report Cover](Block_diagram.png)
 [![Report Cover](Ball_balancing.png)](https://scan.page/p/x1SO5F)
