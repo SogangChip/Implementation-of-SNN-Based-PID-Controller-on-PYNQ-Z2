@@ -18,8 +18,8 @@ Please share the open source code, but indicate the source so that our hard work
 If you want to download this project,
 copy this script in your Vivado Tcl Console.
 
-cd [download path]
-source project_script.tcl
+- cd [download path]
+- source project_script.tcl
 
 ![Report Cover](Block_diagram.png)
 [![Report Cover](Ball_balancing.png)](https://scan.page/p/x1SO5F)
