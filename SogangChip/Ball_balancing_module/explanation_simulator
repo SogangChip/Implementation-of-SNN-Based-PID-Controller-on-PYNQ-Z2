@@ -1,0 +1,5 @@
+# method to using this files
+
+upload 'snn_big_I.bit', 'snn_big_I.hwh' on PYNQ-Z2 board.
+run 'snn_simul' on Jupyter Notebook, and check the message 'FPGA connected'.
+run 'snn_jupyter.py' on your PC, you can see the ball balancing simulator.
