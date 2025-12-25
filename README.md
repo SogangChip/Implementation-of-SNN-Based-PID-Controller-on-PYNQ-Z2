@@ -22,6 +22,6 @@ copy and paste this script in your Vivado Tcl Console.
 - source project_script.tcl
 
 
-![Report Cover](SogangChip Logo.jpg)
+![Report Cover](SogangChip_Logo.png)
 ![Report Cover](Block_diagram.png)
 [![Report Cover](Ball_balancing.png)](https://m.site.naver.com/1YmHO)
