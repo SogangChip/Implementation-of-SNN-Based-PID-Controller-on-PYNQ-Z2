@@ -22,4 +22,4 @@ copy and paste this script in your Vivado Tcl Console.
 - source project_script.tcl
 
 ![Report Cover](Block_diagram.png)
-[![Report Cover](Ball_balancing.png)](https://scan.page/p/x1SO5F)
+[![Report Cover](Ball_balancing.png)](https://m.site.naver.com/1YmHO)
