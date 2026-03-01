@@ -11,7 +11,7 @@ Our project activities are as follows.
 
 We utilized a PID control method designed to vary neuronal firing rates based on the ball's position and weight. System stability was ensured by converting floating-point equations into fixed-point format and devising a robust ball position estimation algorithm.
 
-Notably, we enhanced hardware efficiency by applying membrane potential values from control neurons trained via software Hybrid RL, replacing the complex division and multiplication operations typically required in PID calculations. By implementing a pipelined architecture, we achieved a deterministic latency of 4.97µs during FPGA operation at 100MHz, securing stable real-time control performance.
+Notably, we enhanced hardware efficiency by applying membrane potential values from control neurons trained via software Hybrid RL, replacing the complex division and multiplication operations typically required in PID calculations. By implementing a pipelined architecture, we achieved a deterministic latency of 4.97µs during FPGA operation at 104MHz, securing stable real-time control performance.
 
 Our research extends beyond simple balance maintenance, suggesting a new control paradigm that mimics the motor control functions of the cerebellum.
 
